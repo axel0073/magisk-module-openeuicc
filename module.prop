@@ -1,6 +1,6 @@
-id=openeuicc
-name=OpenEUICC
-version=v04
-versionCode=4
-author=AndroPlus
-description=Add OpenEUICC for eSIM
+id=openeuicc_5ber
+name=OpenEUICC_5ber
+version=v01
+versionCode=1
+author=axel0073
+description=Add OpenEUICC for 5ber eSIM
