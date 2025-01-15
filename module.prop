@@ -1,7 +1,7 @@
 id=openeuicc_5ber
-name=OpenEUICC_5ber
+name=OpenEUICC 5ber
 version=v01
 versionCode=1
 author=axel0073
-description=Add OpenEUICC for 5ber eSIM
+description=Add OpenEUICC for a 5ber eSIM
 updateJson=https://raw.githubusercontent.com/axel0073/magisk-module-openeuicc/master/update.json
